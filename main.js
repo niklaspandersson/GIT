@@ -1,1 +1,4 @@
-console.log("hello in browser")
+
+function hello() {
+  console.log("hello in browser");
+}
