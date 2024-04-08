@@ -31,6 +31,7 @@ Use VS Code to perform common operations
     * Checkout different branches and see how the files in you project updates accordingly
     * Try to merge branches
     * Try to rebase
+* Undo stuff locally with `reset`
 
 ### Working directly in main
 * Have everybody work (in parallell) and commit to directly to `main`. Push, and try to get all code merged.
